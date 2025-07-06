@@ -36,7 +36,7 @@ Each task has:
 1️⃣ Clone this repository or download the source code.
 
 2️⃣ Navigate into the project folder:
-```bash
+
 cd your_project_folder
 3️⃣ Create a virtual environment 
 python -m venv venv
@@ -53,6 +53,6 @@ Once the server is running, open your browser and visit:
 
 Swagger UI: http://127.0.0.1:8000/docs
 
-
+---
 
 The SQLite database file tasks.db will be created automatically when you run the server.
