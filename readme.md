@@ -38,8 +38,10 @@ Each task has:
 2️⃣ Navigate into the project folder:
 
 cd your_project_folder
-3️⃣ Create a virtual environment 
+
+3️⃣ Create a virtual environment :
 python -m venv venv
+
 4️⃣ Install dependencies:
 pip install fastapi uvicorn sqlalchemy pydantic
 
